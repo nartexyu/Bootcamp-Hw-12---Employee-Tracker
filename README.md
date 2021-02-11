@@ -9,7 +9,7 @@ Run 'npm i' in the console to install all dependencies before running the applic
 ## Usage
 Run 'node index.js' to run the application. The user can use arrow keys to switch between the functions presented on the terminal. 
 
-![Screenshot][/assets/Screenshot.JPG]
+![Screenshot](/assets/Screenshot.JPG)
 
 ## Questions
 If you have any questions, send me a message on github!
